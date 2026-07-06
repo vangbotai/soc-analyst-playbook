@@ -1,96 +1,143 @@
 # SOC Analyst Playbook
 
+![Cybersecurity](https://img.shields.io/badge/Focus-Security%20Operations-blue)
+![Documentation](https://img.shields.io/badge/Type-Cybersecurity%20Documentation-green)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
 ## Overview
 
-This repository is a personal cybersecurity learning project created to document the procedures, workflows, and security concepts commonly used by Security Operations Center (SOC) analysts.
+The SOC Analyst Playbook is a personal cybersecurity portfolio project focused on developing and documenting Security Operations Center (SOC) skills.
 
-Its purpose is to demonstrate my understanding of alert triage, incident response, security documentation, and cybersecurity best practices while continuing to develop practical skills for an entry-level cybersecurity role.
+This repository demonstrates my understanding of security monitoring, alert investigation, incident response processes, threat intelligence concepts, and cybersecurity documentation practices.
 
----
-
-## Repository Objectives
-
-* Develop professional cybersecurity documentation
-* Practice SOC analyst workflows
-* Improve incident response knowledge
-* Build familiarity with security operations concepts
-* Create a centralized cybersecurity reference
+The goal of this project is to continue developing the analytical, technical, and communication skills required for an entry-level SOC Analyst or Cybersecurity Technician role.
 
 ---
 
-## Repository Structure
+# Repository Contents
 
-```text
-docs/
-├── README.md
-├── alert-triage.md
-├── escalation-process.md
-├── false-positive-guide.md
-├── incident-documentation.md
-├── mitre-mapping.md
-├── windows-event-ids.md
-└── common-alerts.md
-```
+## Security Documentation
 
----
+📁 [SOC Documentation](./docs)
 
-## Topics Covered
-
-### Alert Management
+Covers:
 
 * Alert triage
-* Severity assessment
-* Evidence collection
-* Investigation workflow
-
-### Incident Response
-
-* Incident documentation
-* Escalation procedures
-* Response lifecycle
-* Reporting best practices
-
-### Threat Detection
-
-* Common security alerts
-* Windows Security Event IDs
-* MITRE ATT&CK overview
+* Incident escalation
 * False positive analysis
+* Incident documentation
+* MITRE ATT&CK concepts
+* Windows security events
+* Common security alerts
 
 ---
 
-## Skills Demonstrated
+## Case Studies
 
-* Security Operations (SOC)
-* Incident Response
-* Threat Analysis
-* Security Documentation
-* Windows Security
-* Cybersecurity Fundamentals
-* Critical Thinking
-* Technical Writing
+📁 [Case Studies](./case-studies)
 
----
+Fictional security scenarios demonstrating how a SOC analyst may approach investigations.
 
-## Future Improvements
+Topics include:
 
-This repository will continue to expand as I gain additional cybersecurity knowledge and hands-on experience. Planned additions include:
-
-* Sample incident reports
-* Threat hunting methodology
-* Log analysis examples
-* Detection engineering concepts
-* SIEM query examples
-* Threat intelligence notes
+* Brute force login attempts
+* Suspicious PowerShell activity
+* Ransomware detection
 
 ---
 
-## About Me
+## Incident Reports
 
-I am an IT professional with a Bachelor's degree in Information Technology Management and the Google Cybersecurity Professional Certificate. I am currently expanding my cybersecurity knowledge while preparing for an entry-level SOC Analyst or Cybersecurity Technician role.
+📁 [Incident Reports](./incident-reports)
+
+Professional-style incident documentation examples covering:
+
+* Incident summaries
+* Investigation findings
+* Impact assessment
+* Recommended response actions
 
 ---
 
-## Disclaimer
+## Threat Intelligence
 
-This repository is an educational project created to organize and document cybersecurity concepts as part of my professional development. The content is intended for learning and reference purposes and does not represent production security documentation or real-world incident investigations.
+📁 [Threat Intelligence](./threat-intelligence)
+
+Educational threat research covering:
+
+* Phishing techniques
+* Ransomware behavior
+* MITRE ATT&CK mappings
+* Detection opportunities
+* Mitigation strategies
+
+---
+
+## Indicators of Compromise
+
+📁 [IOC Library](./iocs)
+
+Reference material covering:
+
+* Network indicators
+* File indicators
+* Host indicators
+* Email indicators
+* Investigation methods
+
+---
+
+# Skills Demonstrated
+
+## Security Operations
+
+* Alert triage
+* Incident response
+* Security documentation
+* Threat analysis
+* Investigation workflows
+
+## Technical Knowledge
+
+* Windows security concepts
+* Linux fundamentals
+* Networking fundamentals
+* Authentication analysis
+* SIEM concepts
+* MITRE ATT&CK framework
+
+## Professional Skills
+
+* Technical writing
+* Research
+* Documentation
+* Analytical thinking
+* Problem solving
+
+---
+
+# Future Improvements
+
+Planned additions:
+
+* SIEM investigation examples
+* Log analysis exercises
+* Detection rule examples
+* Security automation scripts
+* Additional incident response scenarios
+
+---
+
+# About Me
+
+I am an IT professional with a Bachelor's degree in Information Technology Management and the Google Cybersecurity Professional Certificate.
+
+I am continuing to expand my cybersecurity skills while preparing for opportunities in Security Operations, SOC analysis, and cybersecurity support roles.
+
+---
+
+# Disclaimer
+
+This repository contains educational cybersecurity documentation and fictional scenarios created for professional development.
+
+The content does not represent real security investigations, production environments, or confidential security documentation.
