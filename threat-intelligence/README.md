@@ -33,3 +33,7 @@ Threat intelligence helps security teams:
 ## Disclaimer
 
 These reports are educational summaries based on publicly available cybersecurity information. They are created for learning purposes and do not represent original threat investigations.
+
+## Return to Main Repository
+
+[← Back to SOC Analyst Playbook](../README.md)
