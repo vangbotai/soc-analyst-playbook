@@ -4,3 +4,6 @@ This directory contains fictional cybersecurity scenarios created for educationa
 
 The scenarios are based on common security events and are intended to showcase structured analytical thinking and professional documentation practices.
 
+## Return to Main Repository
+
+[← Back to SOC Analyst Playbook](../README.md)
