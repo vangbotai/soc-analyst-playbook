@@ -26,3 +26,6 @@ The goal of this repository is to demonstrate my understanding of security opera
 * Security Event Investigation
 * Critical Thinking
 
+## Return to Main Repository
+
+[← Back to SOC Analyst Playbook](../README.md)
