@@ -77,3 +77,7 @@ SOC analysts use IOCs to:
 ## Disclaimer
 
 This IOC library is an educational reference created to demonstrate cybersecurity concepts. It does not represent an active threat intelligence feed.
+
+## Return to Main Repository
+
+[← Back to SOC Analyst Playbook](../README.md)
