@@ -27,3 +27,7 @@ The scenarios are designed to showcase security documentation skills and inciden
 ## Disclaimer
 
 These reports describe fictional scenarios created for learning and portfolio development. They do not represent real security incidents.
+
+## Return to Main Repository
+
+[← Back to SOC Analyst Playbook](../README.md)
